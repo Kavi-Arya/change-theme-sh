@@ -1,0 +1,8 @@
+{
+  "translucency": true,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 18,
+  "cssTheme": "Dracula for Obsidian"
+}
